@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Demo App",
-    "slug": "demo-multiple-version-expo",
+    "name": "Demo App Staging",
+    "slug": "demo-multiple-version-expo-staging",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": ["ios", "android"],
@@ -21,7 +21,7 @@
       "supportsTablet": true
     },
     "extra": {
-      "variant": "production"
+      "variant": "staging"
     }
   }
 }
